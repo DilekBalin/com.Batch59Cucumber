@@ -16,4 +16,4 @@
         |nutella      |nutella             |
         |java         |java                |
         |elma         |elma                |
-        |armut        |armut               | 
+        |armut        |armut               |
